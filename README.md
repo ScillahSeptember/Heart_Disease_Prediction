@@ -41,11 +41,3 @@ This project aims to predict the likelihood of heart disease using machine learn
 ## 💡 Contributing
 
 Feel free to contribute by submitting a pull request or opening an issue.
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-Let me know if you need any modifications! 🚀
